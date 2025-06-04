@@ -1,1 +1,1 @@
-console.log("map");
+console.log("map.completed");
