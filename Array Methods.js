@@ -12,3 +12,4 @@ console.log(Filter);
 // Reduce Method 
 let Reduce=something.reduce((x,a)=>x+a);
 console.log(Reduce);
+
