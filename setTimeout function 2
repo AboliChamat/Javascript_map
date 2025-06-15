@@ -8,3 +8,12 @@ function x() {
 }
 
 x();
+
+// Example 2
+function outer() {
+  var a = 10;
+  function inner() {
+    console.log(a);
+  }
+  return inner;
+}
