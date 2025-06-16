@@ -11,4 +11,4 @@ function outest() {
 }
 
 var close = outest()("helloworld");
-close();
+close();    
