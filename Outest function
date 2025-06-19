@@ -1,5 +1,5 @@
 function outest() {
-  let c = 20;
+  var c = 20;
   function outer(b) {
     function inner() {
       console.log(a, b, c);
