@@ -1,0 +1,10 @@
+.parent{
+    height:100px;
+    line-height: 100px;
+    text-align: center;
+}
+.child{
+    vertical-align: middle;
+    display: inline-block;
+    line-height: normal;
+}
